@@ -1,0 +1,4 @@
+casadi==3.6.7
+opencv-python-headless==4.11.0.86 # works also in docker container (no UI)
+pandas==2.2.3
+plotly==5.24.1
